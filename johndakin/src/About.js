@@ -96,7 +96,7 @@ const About = () => {
                         <i class="fas fa-briefcase"></i>
                     </div>
                     <p class="tl-duration">2022 - present</p>
-                    <h5>Software Engineering<span> - Kisii University</span></h5>
+                    <h5>Computer Science<span> - Kisii University</span></h5>
                     <p>
                         Handled the entire Computer Science cycle and related projects
                     </p>
