@@ -4,7 +4,7 @@ const Blogs = () => {
          <section class="container" id="blogs">
             <div class="blogs-content">
                 <div class="main-title">
-                    <h2>My <span>Blogs</span><span class="bg-text">My Blogs</span></h2>
+                    <h2>My <span>Blogs</span><span class="bg-text">Dakin Blogs</span></h2>
                 </div>
                 <div class="blogs">
                     <div class="blog">
@@ -19,7 +19,7 @@ const Blogs = () => {
                         </div>
                     </div>
                     <div class="blog">
-                        <img src="img/port2.jpg" alt=""/>
+                        <img src="img/port3.jpg" alt=""/>
                         <div class="blog-text">
                             <h4>
                                 Become an Expert in networking

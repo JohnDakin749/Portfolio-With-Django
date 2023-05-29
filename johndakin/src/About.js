@@ -9,14 +9,8 @@ const About = () => {
                 <div class="left-about">
                     <h4>Information About me</h4>
                     <p>
-                    A Computer Science student with experience in Python,JavaScript,MySql and Sql database, Agile and a proven track record of delivering projects on time and to high standards. Strong problem-solving and communication skills, with a passion for technology and a desire to continue learning and growing in a dynamic and challenging work environment. Seeking a software engineering role where I can make a meaningful impact in the field of Web development technology.
+                    Am a Computer Science student with experience in Python,JavaScript, VCS, MySql and Sql database, Agile and a proven track record of delivering projects on time and to high standards. Strong problem-solving and communication skills, with a passion for technology and a desire to continue learning and growing in a dynamic and challenging work environment. Seeking a Computer Science role where I can make a meaningful impact in my field.
                     </p>
-                    <div class="btn-con">
-                        <a href="#" class="main-btn">
-                            <span class="btn-text">Download MY CV</span>
-                            <span class="btn-icon"><i class="fas fa-download"></i></span>
-                        </a>
-                    </div>
                 </div>
                 <div class="right-about">
                     <div class="about-item">
@@ -49,45 +43,45 @@ const About = () => {
                 <h4 class="stat-title">My Skills</h4>
                 <div class="progress-bars">
                     <div class="progress-bar">
-                        <p class="prog-title">Django</p>
+                        <p class="prog-title">Python</p>
                         <div class="progress-con">
-                            <p class="prog-text">80%</p>
+                            <p class="prog-text">70%</p>
                             <div class="progress">
                                 <span class="html"></span>
                             </div>
                         </div>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">JavaScript</p>
+                        <p class="prog-title">Django</p>
                         <div class="progress-con">
-                            <p class="prog-text">75%</p>
+                            <p class="prog-text">95%</p>
                             <div class="progress">
                                 <span class="css"></span>
                             </div>
                         </div>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">MySql</p>
+                        <p class="prog-title">Sql</p>
                         <div class="progress-con">
-                            <p class="prog-text">75%</p>
+                            <p class="prog-text">60%</p>
                             <div class="progress">
                                 <span class="react"></span>
                             </div>
                         </div>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Python</p>
+                        <p class="prog-title">MySql</p>
                         <div class="progress-con">
-                            <p class="prog-text">87%</p>
+                            <p class="prog-text">85%</p>
                             <div class="progress">
                                 <span class="node"></span>
                             </div>
                         </div>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">SQL</p>
+                        <p class="prog-title">JavaScript</p>
                         <div class="progress-con">
-                            <p class="prog-text">70%</p>
+                            <p class="prog-text">65%</p>
                             <div class="progress">
                                 <span class="python"></span>
                             </div>
@@ -104,14 +98,14 @@ const About = () => {
                     <p class="tl-duration">2022 - present</p>
                     <h5>Software Engineering<span> - Kisii University</span></h5>
                     <p>
-                        Handled the entire software development cycle and related projects
+                        Handled the entire Computer Science cycle and related projects
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">April 2023 - May 2022</p>
+                    <p class="tl-duration">April 2023 - May 2023</p>
                     <h5>Took a<span> - JavaScript Course</span></h5>
                     <p>
                         Graduated and very eager to expand my knowledge through various projects.
@@ -134,7 +128,7 @@ const About = () => {
                     <p class="tl-duration">2022 - present</p>
                     <h5>Intrested in<span> - Artificial Intelligence</span></h5>
                     <p>
-                        Still learning how to use AI for the betterment of humanity.
+                        Still learning how to use AI for improvement of humanity.
                     </p>
                 </div>
             </div>

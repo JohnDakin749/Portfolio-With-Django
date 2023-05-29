@@ -12,7 +12,7 @@ const Home = () => {
                 <div class="right-header">
                     <h1 class="name">
                         Hi, I'm <span>John Dakin.</span>
-                        A Computer Scientist.
+                        A Computer Science Major.
                     </h1>
                     <p>
                     I am passionate about technology, can develop both native and hybrid desktop and mobile applications. 

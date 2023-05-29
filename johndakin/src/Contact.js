@@ -4,13 +4,13 @@ const Contact = () => {
          <section class="container contact" id="contact">
             <div class="contact-container">
                 <div class="main-title">
-                    <h2>Contact <span>Me</span><span class="bg-text">Contact</span></h2>
+                    <h2>Contact <span>Me</span><span class="bg-text">Contacts</span></h2>
                 </div>
                 <div class="contact-content-con">
                     <div class="left-contact">
                         <h4>Contact me here</h4>
                         <p>
-                           You can contact me through:
+                            Eager to hear from you contact me here:
                         </p>
                         <div class="contact-info">
                             <div class="contact-item">
@@ -25,7 +25,7 @@ const Contact = () => {
                             <div class="contact-item">
                                 <div class="icon">
                                     <i class="fas fa-envelope"></i>
-                                    <span>Email</span>
+                                    <span>Email ME</span>
                                 </div>
                                 <p>
                                     <span>: jdakin749@gmail.com</span>
@@ -46,7 +46,7 @@ const Contact = () => {
                                     <span>Mobile Number</span>
                                 </div>
                                 <p>
-                                    <span>: 0703136305</span>
+                                    <span>Call/Text: 0703136305</span>
                                 </p>
                             </div>
                             <div class="contact-item">
@@ -64,7 +64,10 @@ const Contact = () => {
                                 <a href="https://www.instagram.com/john3360john/" target="_blank">
                                     <i class="fab fa-instagram"></i>
                                 </a>
-                                <a href="https://github.com/JohnDakin749" target="_blank">
+                                <a href="https://twitter.com/JohnDakin20" target="_blank">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                     <a href="https://github.com/JohnDakin749" target="_blank">
                                     <i class="fab fa-github"></i>
                                 </a>
                             </div>
