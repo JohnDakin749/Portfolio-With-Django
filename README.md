@@ -1,4 +1,4 @@
 # johndakin
 
 
-This is my Portfolio
+This is a Personal Portfolio developed by Django Framework 
